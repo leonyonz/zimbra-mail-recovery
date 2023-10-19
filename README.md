@@ -27,7 +27,7 @@ USERS=$(cat mail1)
 USERS="domain@domain.com"
 ```
 
-3. Im assuming you place the tools inside `/tmp` directory, if you not use `/tmp` please adjust this.
+- Im assuming you place the tools inside `/tmp` directory, if you not use `/tmp` please adjust this.
 
 ```
 ...
